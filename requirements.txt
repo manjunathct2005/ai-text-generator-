@@ -1,0 +1,5 @@
+streamlit>=1.20
+transformers>=4.30
+torch>=1.13
+sentencepiece>=0.1.98
+typing-extensions
