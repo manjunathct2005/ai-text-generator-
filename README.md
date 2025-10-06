@@ -8,7 +8,7 @@ This project detects the sentiment of a user prompt and generates a paragraph al
 - `sentiment_gen.py`: sentiment classification and generation functions.
 - `requirements.txt`: Python dependencies.
 - `README.md`: this file.
-- (Optional) `generated_paragraph.txt`: sample outputs you may create and share.
+- (Optional) `generated_paragraph.txt`.
 
 ## Methodology
 1. **Sentiment Classification**
@@ -38,3 +38,4 @@ This project detects the sentiment of a user prompt and generates a paragraph al
    ```bash
    python -m venv venv
    source venv/bin/activate   # on Windows: venv\Scripts\activate
+
