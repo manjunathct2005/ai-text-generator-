@@ -39,3 +39,5 @@ This project detects the sentiment of a user prompt and generates a paragraph al
    python -m venv venv
    source venv/bin/activate   # on Windows: venv\Scripts\activate
 
+
+streamlit app live : https://jlonau3smj3wcmd9qxdbz5.streamlit.app/
